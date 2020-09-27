@@ -1,0 +1,10 @@
+.page-section {
+  padding: 100px 0;
+  font-size: 22px;
+}
+@media (min-width: 768px) {
+  .page-section {
+    padding: 150px 0;
+    font-size: 22px;
+  }
+}
