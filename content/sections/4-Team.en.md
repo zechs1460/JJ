@@ -5,9 +5,65 @@ subheader: "Claudio Dental Laboratory (formally known as Collins Dental Laborato
 content: ""
 teamMember: [
   {
+    imageFileName: " ",
+    header: " ",
+    subheader: " ",
+    social: {
+    }
+  },
+  {
     imageFileName: "team/1.jpg",
     header: "Pedro Claudio",
     subheader: "Certified Dental Technician",
+    social: {
+    }
+  },
+  {
+    imageFileName: " ",
+    header: " ",
+    subheader: " ",
+    social: {
+    }
+  },
+  {
+    imageFileName: "team/2.jpg",
+    header: "Front Office",
+    subheader: "Come on in",
+    social: {
+    }
+  },
+  {
+    imageFileName: "team/3.jpg",
+    header: "Front Office",
+    subheader: "Welcome to our Lab",
+    social: {
+    }
+  },
+  {
+    imageFileName: "team/4.jpg",
+    header: "Front Office",
+    subheader: "Please have a seat",
+    social: {
+    }
+  },
+  {
+    imageFileName: "team/5.jpg",
+    header: "Lab",
+    subheader: "Countertops",
+    social: {
+    }
+  },
+  {
+    imageFileName: "team/6.jpg",
+    header: "Lab",
+    subheader: "Equipment and Boil-Out Sink",
+    social: {
+    }
+  },
+  {
+    imageFileName: "team/7.jpg",
+    header: "Lab",
+    subheader: "My Work Table",
     social: {
     }
   },
