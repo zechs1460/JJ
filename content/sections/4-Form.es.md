@@ -5,17 +5,17 @@ subheader: ""
 portfolios: [
   {
     imageFileName: "forms/ML.jpg",
-    header: "Mailing Labels",
+    header: "Etiquetas postales",
     subheader: "",
   },
   {
     imageFileName: "forms/RX.jpg",
-    header: "RX Prescription",
+    header: "Receta RX",
     subheader: "",
   },
   {
     imageFileName: "forms/Fixed.jpg",
-    header: "Fixed RX",
+    header: "RX fijo",
     subheader: "",
   },
 ]

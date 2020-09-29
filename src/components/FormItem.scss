@@ -62,10 +62,18 @@
   }
 }
 
-/* Make Modal CONTAINER size the original image's  
-.modal-content {
-display: flex !important;
-flex-direction: center !important;
-min-width: 100% !important;
-}				
-*/
+@media print{
+  @page {
+    margin-top: 2rem;
+    
+    /*
+    None of these worked, 
+    ended up just making the original images have 
+    whitespace around them to make them fit a page
+    
+    height: 400px !important;
+    size: landscape !important;
+    width: 30% !important;
+    */
+  }
+}
