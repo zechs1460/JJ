@@ -20,49 +20,49 @@ teamMember: [
   },
   {
     imageFileName: " ",
-    header: " ",
+    header: "  ",
     subheader: " ",
     social: {
     }
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Oficina frontal",
+    header: "Oficina frontal 1",
     subheader: "Come on in",
     social: {
     }
   },
   {
     imageFileName: "team/3.jpg",
-    header: "Oficina frontal",
+    header: "Oficina frontal 2",
     subheader: "Bienvenido a nuestro laboratorio",
     social: {
     }
   },
   {
     imageFileName: "team/4.jpg",
-    header: "Oficina frontal",
+    header: "Oficina frontal 3",
     subheader: "Por favor tome asiento",
     social: {
     }
   },
   {
     imageFileName: "team/5.jpg",
-    header: "Lab",
+    header: "Lab 1",
     subheader: "Encimeras",
     social: {
     }
   },
   {
     imageFileName: "team/6.jpg",
-    header: "Lab",
+    header: "Lab 2",
     subheader: "Equipo y fregadero hervido",
     social: {
     }
   },
   {
     imageFileName: "team/7.jpg",
-    header: "Lab",
+    header: "Lab 3",
     subheader: "Mi mesa de trabajo",
     social: {
     }

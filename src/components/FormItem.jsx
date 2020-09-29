@@ -29,7 +29,7 @@ const FormItem = ({
           tabIndex={-1}
           className="portfolio-link"
           data-toggle="modal"
-          portfolio-item ref={componentRef}
+          portfolio-link ref={componentRef}
           onClick={handlePrint}
         >
           <Image
