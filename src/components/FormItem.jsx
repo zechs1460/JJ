@@ -20,16 +20,14 @@ const FormItem = ({
     content: () => componentRef.current,
   });
 
-
   return (
     <>
-      <Col md={4} className="portfolio-item" >
+      <Col md={4} className="portfolio-item">
         <a
           role="button"
           tabIndex={-1}
           className="portfolio-link"
-          data-toggle="modal"
-          portfolio-link ref={componentRef}
+          ref={componentRef}
           onClick={handlePrint}
         >
           <Image
@@ -38,7 +36,7 @@ const FormItem = ({
             alt={imageAlt || header || subheader}
           />
 
-          <div className="portfolio-hover">
+          <div className="portfolio-hover" >
             <div className="portfolio-hover-content">
               <Icon iconName="PlusIcon" size="2x" />
             </div>

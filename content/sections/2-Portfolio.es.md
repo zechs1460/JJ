@@ -14,7 +14,7 @@ portfolios: [
   {
     imageFileName: "portfolio/denture2_thumbnail.jpg",
     imageFileNameDetail: "portfolio/denture2_full.jpg",
-    header: "Dentadura Postiza",
+    header: "Dentadura Postiza ",
     subheader: "Por cliente",
     content: "",
     extraInfo: ["Dientes de anatomía estándar, cocidos al vacío y con buena resistencia al desgaste", "El paquete incluye una prueba gratis y envío gratis", "Lucitone ® 199 Acrílico "," Dientes clásicos "," Lincoln Dual Form V"]
@@ -22,7 +22,7 @@ portfolios: [
   {
     imageFileName: "portfolio/denture3_thumbnail.jpg",
     imageFileNameDetail: "portfolio/denture3_full.jpg",
-    header: "Dentadura Postiza",
+    header: "Dentadura Postiza  ",
     subheader: "Economía",
     content: "",
     extraInfo: ["Dentaduras postizas estándar o de transición", "Dientes acrílicos de dos capas", "Tonos estéticos y asequibles", "Servicios disponibles durante la noche * (llame para consultar)", "Puede proporcionar barras de titanio para casos de implantes"]
@@ -46,7 +46,7 @@ portfolios: [
   {
     imageFileName: "portfolio/partial2_thumbnail.jpg",
     imageFileNameDetail: "portfolio/partial2_full.jpg",
-    header: "Parciales",
+    header: "Parciales ",
     subheader: "Flexible FRS",
     content: "Tenemos tres paquetes:",
     extraInfo: ["Premio", "Por Cliente", "Economía (parciales de transición)"]
@@ -54,7 +54,7 @@ portfolios: [
   {
     imageFileName: "portfolio/partial3_thumbnail.jpg",
     imageFileNameDetail: "portfolio/partial3_full.jpg",
-    header: "Parciales",
+    header: "Parciales  ",
     subheader: "Cierres de alambre forjado",
     content: "Tenemos tres paquetes:",
     extraInfo: ["Premio", "Por Cliente", "Economía (parciales de transición)"]
@@ -62,7 +62,7 @@ portfolios: [
   {
     imageFileName: "portfolio/partial4_thumbnail.jpg",
     imageFileNameDetail: "portfolio/partial4_full.jpg",
-    header: "Parciales",
+    header: "Parciales   ",
     subheader: "Vitallium 2000 de metal fundido",
     content: "Tenemos tres paquetes:",
     extraInfo: ["Premio", "Por Cliente", "Economía (parciales de transición)"]
@@ -78,7 +78,7 @@ portfolios: [
   {
     imageFileName: "portfolio/crownandbridge2_thumbnail.jpg",
     imageFileNameDetail: "portfolio/crownandbridge2_full.jpg",
-    header: "Corona y puente",
+    header: "Corona y puente ",
     subheader: "E.Max",
     content: "",
     extraInfo: ["IPS e.max CAD full-Contour", "Diseño y fresado CAD / CAM"]
@@ -86,7 +86,7 @@ portfolios: [
   {
     imageFileName: "portfolio/crownandbridge3_thumbnail.jpg",
     imageFileNameDetail: "portfolio/crownandbridge3_full.jpg",
-    header: "Corona y puente",
+    header: "Corona y puente  ",
     subheader: "PFMs",
     content: "Tiempo de respuesta inferior a 15 días en:",
     extraInfo: ["PFM", "Captek ™", "All-Ceramic ®", "Radica", "Cercon ®"]
@@ -94,7 +94,7 @@ portfolios: [
   {
     imageFileName: "portfolio/crownandbridge4_thumbnail.jpg",
     imageFileNameDetail: "portfolio/crownandbridge4_full.jpg",
-    header: "Corona y puente",
+    header: "Corona y puente   ",
     subheader: "Bruxzir",
     content: "",
     extraInfo: ["Sistema de fresado interno para que podamos:", "Crear, fresar, terminar y devolver coronas IPS e.max CAD en 3 días", "Coronas de zirconio en 5 días"]
@@ -110,7 +110,7 @@ portfolios: [
   {
     imageFileName: "portfolio/cast2_thumbnail.jpg",
     imageFileNameDetail: "portfolio/cast2_full.jpg",
-    header: "Metal Fundido",
+    header: "Metal Fundido ",
     subheader: "Vita A1 - D4 Sombra",
     content: "",
     extraInfo: ["La estructura de metal no hace contacto con las encías", "Los puntos doloridos casi nunca son un problema"]
@@ -118,7 +118,7 @@ portfolios: [
   {
     imageFileName: "portfolio/cast3_thumbnail.jpg",
     imageFileNameDetail: "portfolio/cast3_full.jpg",
-    header: "Metal Fundido",
+    header: "Metal Fundido  ",
     subheader: "Vitallium ® 2000 Metal",
     content: "",
     extraInfo: ["Rara vez requiere rebase"]
@@ -126,7 +126,7 @@ portfolios: [
   {
     imageFileName: "portfolio/cast4_thumbnail.jpg",
     imageFileNameDetail: "portfolio/cast4_full.jpg",
-    header: "Metal Fundido",
+    header: "Metal Fundido   ",
     subheader: "Glidewell producido",
     content: "",
     extraInfo: ["Parciales de marco flexible:", "Para pacientes que presentan los síntomas de ATM", "Pacientes que se conocen como bruxistas"]
