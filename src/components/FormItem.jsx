@@ -1,6 +1,5 @@
-import React, { useRef } from 'react';
+import React from 'react';
 import PropTypes from "prop-types";
-import { useReactToPrint } from 'react-to-print';
 
 import { Col } from "react-bootstrap";
 import Image from "components/Image";
@@ -15,11 +14,6 @@ const FormItem = ({
   subheader,
 }) => {
 
-  const componentRef = useRef();
-  const handlePrint = useReactToPrint({
-    content: () => componentRef.current,
-  });
-
   return (
     <>
       <Col md={4} className="portfolio-item">
@@ -27,8 +21,7 @@ const FormItem = ({
           role="button"
           tabIndex={-1}
           className="portfolio-link"
-          ref={componentRef}
-          onClick={handlePrint}
+          a href="../AllForms"
         >
           <Image
             className="img-fluid"
