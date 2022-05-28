@@ -25,54 +25,35 @@ export default class Contact extends React.Component {
           data-netlify-honeypot="bot-field"
         >
           <input type="hidden" name="bot-field" />
+
           <div className="field">
             <label htmlFor="name">Category: </label>
-            <input type="text" name="name" id="name" />
+          <select id="Category" name="Category">
+            <option value="1">Instagram Followers Refill</option>
+            <option value="2">Instagram Comments</option>
+            <option value="3">Instagram Likes</option>
+            <option value="4">Instagram Views</option>
+            <option value="5">Instagram Story Views</option>
+            <option value="6">Instagram Real Views/Likes</option>
+            <option value="7">Youtube Views</option>
+            <option value="8">Youtube Watchtime Services</option>
+          </select>
           </div>
+
           <div className="field">
-            <label htmlFor="name">Instagram Followers Refill</label>
-            <input type="text" name="name" id="name" />
+            <label htmlFor="name">Services: </label>
+          <select id="Category" name="Category">
+            <option value="1">Instagram Followers [Refill 99 days] [Max: 1mil] [Start Time: 1hr] [Speed: 2k/day] - $0.78</option>
+            <option value="2">Instagram Followers [Refill 30 days] [Max: 1mil] [Start Time: 0-1hr] [Speed: 60k/day] - $1.30</option>
+            <option value="3">Instagram Followers [Refill 60 days] [Max: 500k] [Start Time: 0-1hr] [Speed: 20k/day] - $2</option>
+            <option value="4">Instagram Views</option>
+            <option value="5">Instagram Story Views</option>
+            <option value="6">Instagram Real Views/Likes</option>
+            <option value="7">Youtube Views</option>
+            <option value="8">Youtube Watchtime Services</option>
+          </select>
           </div>
-          <div className="field half first">
-            <label htmlFor="name">Instagram Comments</label>
-            <input type="text" name="name" id="name" />
-          </div>
-          <div className="field half">
-            <label htmlFor="email">Instagram Likes</label>
-            <input type="text" name="email" id="email" />
-          </div>          
-          <div className="field half">
-            <label htmlFor="email">Instagram Views</label>
-            <input type="text" name="email" id="email" />
-          </div>
-          <div className="field half">
-            <label htmlFor="email">Instagram Story Views</label>
-            <input type="text" name="email" id="email" />
-          </div>
-          <div className="field half">
-            <label htmlFor="email">Instagram Real Views/Likes</label>
-            <input type="text" name="email" id="email" />
-          </div>
-          <div className="field half">
-            <label htmlFor="email">Youtube Views</label>
-            <input type="text" name="email" id="email" />
-          </div>
-          <div className="field half">
-            <label htmlFor="email">Youtube Watchtime Services</label>
-            <input type="text" name="email" id="email" />
-          </div>
-          <div className="field half">
-            <label htmlFor="email">Instagram Followers [Refill 99 days] [Max: 1mil] [Start Time: 1hr] [Speed: 2k/day] - $0.78 </label>
-            <input type="text" name="email" id="email" />
-          </div>
-          <div className="field half">
-            <label htmlFor="email">Instagram Followers [Refill 30 days] [Max: 1mil] [Start Time: 0-1hr] [Speed: 60k/day] - $1.30 </label>
-            <input type="text" name="email" id="email" />
-          </div>
-          <div className="field half">
-            <label htmlFor="email">Instagram Followers [Refill 60 days] [Max: 500k] [Start Time: 0-1hr] [Speed: 20k/day] - $2 </label>
-            <input type="text" name="email" id="email" />
-          </div>
+          
           <div className="field half">
             <label htmlFor="email">Your Account: </label>
             <input type="text" name="email" id="email" />

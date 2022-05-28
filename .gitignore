@@ -22,6 +22,7 @@ coverage
 
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
+.intermediate-representation
 
 # Bower dependency directory (https://bower.io/)
 bower_components
@@ -51,12 +52,13 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
-# dotenv environment variable files
-.env*
+# dotenv environment variables file
+.env
 
 # gatsby files
 .cache/
 public
+.gatsby-context.js
 
 # Mac files
 .DS_Store
@@ -65,5 +67,9 @@ public
 yarn-error.log
 .pnp/
 .pnp.js
+yarn.lock
 # Yarn Integrity file
 .yarn-integrity
+
+# JetBrains
+.idea/
